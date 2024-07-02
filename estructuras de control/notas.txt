@@ -1,0 +1,8 @@
+ESTRUCTURA DE CONTROL:
+    nos permite manejar y tener mas control sobre nuestro codigo y de este modo aplicamos la estructura
+    correcta en funcion a ciertas condiciones.
+
+BIFURACACIONES: - es cuando algo se divide en multiples ramas
+    Las BIFURACACIONES nos permiten ir por un camino u otro, si se cumple la condicion vamos por un camino y si
+    no se cumple vamos por el otro.
+
